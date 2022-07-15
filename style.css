@@ -1,0 +1,98 @@
+
+body{
+    background-color: hsl(30, 38%, 92%); 
+}
+.container1{
+    margin: 0px;
+    padding: 0px;
+    display:flex;
+    border: 20px;
+    justify-content: center;
+    
+         
+}
+img{
+    height:550px;
+}
+.container2{
+    border-radius: 10px;
+    }
+
+ 
+    img{
+         padding:inherit;
+         border-radius: 10px;
+
+    }
+
+
+
+
+
+.container{
+    border-radius: 10px;
+    border-style:groove;
+    background-color:hsl(30, 38%, 92%);
+    width: 350px;
+    
+    
+}
+.flex-box{
+    align-content: center;
+ transform: translate(10%, 0%); 
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500, 700;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:  700;
+
+}
+h1{
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+
+
+
+
+
+
+#money{
+transform: translate(45%,-450%);
+font-family: 'Montserrat', sans-serif;
+
+}
+.cart{
+    width:70%;
+    height: 40px;
+    background-color:#014421;
+    color:white;
+    border-radius: 10px;
+    position: absolute;
+    top:85%;
+    
+    
+}
+
+i{
+    transform:translate(300%,-320%);
+    color:white;
+}
+hr{
+    width:15%;
+    transform: translate(0%,-2000%);
+    color: black;
+}
+.coder{
+    font-family: cursive;
+    color: brown;
+    font-weight: lighter;
+    text-align: center;
+
+}
+
+
